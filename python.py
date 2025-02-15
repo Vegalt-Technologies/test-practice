@@ -4,3 +4,5 @@ for i in list1:
     for j in i:
         # print(f"{j} square is :{j*j}")
         print(j,' square is: ', j*j)
+
+print('ankitha')
